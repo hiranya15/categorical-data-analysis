@@ -75,15 +75,24 @@ Used to analyze academic performance and demographic distribution.
 
 # 7. Tools Used
 Python
+
 Jupyter Notebook
+
 Pandas Library
-Google Colab / VS Code
+
+Google Colab 
+
 # 8. Applications
 Business and sales analysis
+
 Customer behavior analysis
+
 Market research
+
 Academic performance evaluation
+
 Data-driven decision making
+
 # 9. Conclusion
 Categorical data analysis is a fundamental aspect of data science and statistics. Using Python and the Pandas library, it becomes efficient to analyze categorical variables, identify trends, and extract meaningful insights.
 This experiment demonstrated essential techniques such as frequency analysis, cross-tabulation, grouping, filtering, and sorting, which are highly useful in real-world data analysis scenarios.
